@@ -1,0 +1,3 @@
+= quarkus-web3
+
+Highly plagarized from link:https://github.com/Sgitario/lottery-web3j-quarkus/tree/master/quarkus-web3j-client[quarkus-web3j-client]

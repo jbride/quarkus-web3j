@@ -1,0 +1,10 @@
+name: Quarkus Web3j
+#description: Quarkus Web3j ...
+metadata:
+  keywords:
+  - "web3j"
+  - "ethereum"
+  guide: "https://quarkus.io/guides/web3j"
+  categories:
+  - "data"
+  status: "preview"
