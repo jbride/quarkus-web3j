@@ -21,7 +21,7 @@
     <quarkus.version>2.7.1.Final</quarkus.version>
     <surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
 
-    <web3j.version>4.5.16</web3j.version>
+    <web3j.version>4.8.7</web3j.version>
 
   </properties>
   <dependencyManagement>
